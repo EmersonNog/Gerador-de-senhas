@@ -1,0 +1,33 @@
+@media (max-width: 620px) {
+    .logo {
+        max-width: 320px;
+    }
+
+    .container-input span {
+        font-size: 19px;
+    }
+
+    .container-input {
+        width: 300px;
+    }
+
+    .button-cta {
+        margin-top: 20px;
+    }
+
+    .container-password {
+        max-width: 320px;
+    }
+
+    .title{
+        font-size: 24px;
+    }
+
+    .password {
+        font-size: 14.5px;
+    }
+
+    .tooltip {
+        font-size: 13px;
+    }
+}
